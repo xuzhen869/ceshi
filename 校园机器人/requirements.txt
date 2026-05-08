@@ -1,7 +1,7 @@
-langchain
-langchain-openai
 langchain-classic
+langchain-openai
 openai
 streamlit
 sentence-transformers
 chromadb
+protobuf==3.20.3
