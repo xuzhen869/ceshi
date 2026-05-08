@@ -1,7 +1,7 @@
-langchain>=0.2.0
-langchain-openai>=0.1.0
+langchain
+langchain-openai
 langchain-classic
-openai>=1.30.0
+openai
 streamlit
 sentence-transformers
 chromadb
